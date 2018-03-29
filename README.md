@@ -195,8 +195,6 @@ This project is based on the code of:
 
 Erlang MQTT Broker [EMQTTD](https://github.com/emqtt/emqttd)
 
-Helpshift Ekaf [ekaf](https://github.com/helpshift/ekaf)
-
 And learn ideas form:
 
 Gao dongchen's [emqttd_plugin_blackhole](https://github.com/gaodongchen/emqttd_plugin_blackhole)

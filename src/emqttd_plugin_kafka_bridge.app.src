@@ -5,8 +5,7 @@
   {registered, []},
   {applications, [
                   kernel,
-                  stdlib,
-                  ekaf
+                  stdlib
                  ]},
   {mod, { emqttd_plugin_kafka_bridge_app, []}},
   {env, []}
